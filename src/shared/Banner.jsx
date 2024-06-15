@@ -16,7 +16,7 @@ const Banner = ({banner, heading, subheading, btn1, btn2}) => {
                         whileInView={'show'}
                         viewport={{once:false, amount:0.2}}
                         >
-                            <img src={banner} className='lg:h-[386px]' alt="banner image" />
+                            <img src={banner} className='lg:h-[386px]' />
                         </motion.div>
 
                         {/* Banner content */}

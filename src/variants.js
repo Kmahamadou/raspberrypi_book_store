@@ -1,4 +1,3 @@
-import { type } from "@testing-library/user-event/dist/type"
 
 export const fadeIn = (direction, delay) => {
     return {

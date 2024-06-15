@@ -9,16 +9,18 @@ const Banner = ({banner, heading, subheading, btn1, btn2}) => {
         <div className='gradientBg rounded-xl rounded-tl-[80px] rounded-br-[80px] md:p-9 px-4 py-14'>
                     <div className='flex flex-col md:flex-row justify-between items-center gap-10'>
 
-                        {/* banner image */}
+                        {/* banner image with optimized alt text for screen-readers */}
                         <motion.div
                         variants={fadeIn("down", 0.2)}
                         initial='hidden'
                         whileInView={'show'}
                         viewport={{once:false, amount:0.2}}
                         >
+
                             <img src={banner} className='lg:h-[386px]'
                              alt="Un élève qui s'offre une session de lecture" />
                         </motion.div>
+
 
                         {/* Banner content */}
                         <motion.div 

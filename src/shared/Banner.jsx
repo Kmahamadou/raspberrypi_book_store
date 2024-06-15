@@ -14,7 +14,7 @@ const Banner = ({banner, heading, subheading, btn1, btn2}) => {
                         variants={fadeIn("down", 0.2)}
                         initial='hidden'
                         whileInView={'show'}
-                        viewport={{once:false, amount:0.7}}
+                        viewport={{once:false, amount:0.2}}
                         >
                             <img src={banner} className='lg:h-[386px]' alt="banner image" />
                         </motion.div>
@@ -24,7 +24,7 @@ const Banner = ({banner, heading, subheading, btn1, btn2}) => {
                         variants={fadeIn("up", 0.2)}
                         initial='hidden'
                         whileInView={'show'}
-                        viewport={{once:false, amount:0.7}}
+                        viewport={{once:false, amount:0.2}}
                         
                         className="md:w-3/5 mx-auto">
                             <h2 className='md:text-7xl text-4xl font-bold text-white mb-6 leading-relaxed'>{heading}</h2>

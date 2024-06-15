@@ -17,7 +17,7 @@ const Features = ({banner, heading, subheading, btn1, btn2}) => {
                     variants={fadeIn("left", 0.2)}
                     initial='hidden'
                     whileInView={'show'}
-                    viewport={{once:false, amount:0.7}}
+                    viewport={{once:true, amount:0.3}}
                 
                 className="lg:w-1/4">
                     <h3 className="text-3xl text-primary font-bold lg:w-1/2 mb-3">
@@ -32,7 +32,7 @@ const Features = ({banner, heading, subheading, btn1, btn2}) => {
                         variants={fadeIn("up", 0.2)}
                         initial='hidden'
                         whileInView={'show'}
-                        viewport={{once:false, amount:0.7}}
+                        viewport={{once:false, amount:0.2}}
 
 
                 className="w-full lg:w-3/4">

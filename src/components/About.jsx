@@ -34,10 +34,9 @@ const About = () => {
                         Une bibliothèque virtuelle <span className='text-secondary'>pour les passionés de lecture.</span> 
                     </h2>
                     <p className='text-tartiary text-lg mb-7'>
-                    Lire, car lire delivre. Lire, car lire delivre. Lire, car lire delivre. Lire, car lire delivre. 
-                    Lire, car lire delivre. Lire, car lire delivre. Lire, car lire delivre. 
+                    Acceder à des e-books intéressant qui vous faciliterons l'apprentissage.
                     </p>
-                    <button className='btnPrimary'>Nous contacter</button>
+                    <button className='btnPrimary'>Choisir un livre</button>
                 </motion.div>
             </div>
 

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/raspberrypi_book_store/static/css/main.617eff29.css",
+    "main.js": "/raspberrypi_book_store/static/js/main.98122932.js",
+    "static/js/453.8ab44547.chunk.js": "/raspberrypi_book_store/static/js/453.8ab44547.chunk.js",
+    "static/media/newsletter.png": "/raspberrypi_book_store/static/media/newsletter.094ebc82136c949629da.png",
+    "static/media/science.png": "/raspberrypi_book_store/static/media/science.ffa643ccd96740a092d5.png",
+    "static/media/banner.png": "/raspberrypi_book_store/static/media/banner.cc126f0c9055d7b1a759.png",
+    "static/media/math.png": "/raspberrypi_book_store/static/media/math.cb15cdcf0de8829fedcf.png",
+    "static/media/reading.png": "/raspberrypi_book_store/static/media/reading.671062f6a6303a4c2ff8.png",
+    "static/media/aboutImg.png": "/raspberrypi_book_store/static/media/aboutImg.b0782e0d2ec923c6e9b6.png",
+    "static/media/experiment.png": "/raspberrypi_book_store/static/media/experiment.88546c92c76613ba83ac.png",
+    "static/media/logo.png": "/raspberrypi_book_store/static/media/logo.c2444b9c95ca5b41bb0f.png",
+    "static/media/linkedin.png": "/raspberrypi_book_store/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/raspberrypi_book_store/index.html",
+    "main.617eff29.css.map": "/raspberrypi_book_store/static/css/main.617eff29.css.map",
+    "main.98122932.js.map": "/raspberrypi_book_store/static/js/main.98122932.js.map",
+    "453.8ab44547.chunk.js.map": "/raspberrypi_book_store/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617eff29.css",
+    "static/js/main.98122932.js"
+  ]
+}
